@@ -1,0 +1,24 @@
+.work {
+  color: green;
+  font-family: monospace;
+}
+
+.education {
+  color: blue;
+  font-size: 18px;
+}
+
+.skills {
+  font-size: 18px
+  color: darkred;
+}
+
+.highlight {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.important {
+  font-weight: bold;
+  font-size: 20px;
+}
